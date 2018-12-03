@@ -1,0 +1,1 @@
+req = Request('http://abcnews.go.com/International/wireStory/lebanon-votes-shadow-syria-war-reflecting-divisions-54973848', headers={'User-Agent': 'Mozilla/5.0'})
